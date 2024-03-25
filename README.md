@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello, I'm RPD! 👋
+
+I'm a passionate software engineer with a keen interest in machine learning and data science. Currently, I'm exploring the fascinating world of artificial intelligence and its applications in various domains.
+
+### 🔭 Currently working on:
+    * Completing my Master's thesis on "Predictive Modeling in Healthcare using Deep Learning".
+    * Building a personal portfolio website to showcase my projects and achievements.
+
 
 <!--
 **RPDai24/RPDai24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
