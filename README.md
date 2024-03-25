@@ -1,10 +1,11 @@
 # Hello, I'm RPD! 👋
 ![image](/Images/head.png)
+
 I'm a passionate software engineer with a keen interest in machine learning and data science. Currently, I'm exploring the fascinating world of artificial intelligence and its applications in various domains.
 
 ## 🔭 Currently working on:
 * Completing my Master's thesis on "Predictive Modeling in Healthcare using Deep Learning".
-* Building a personal [portfolio website](https://github.com/RPDai24) to showcase my projects and achievements. 
+    * Building a personal [portfolio website](https://github.com/RPDai24) to showcase my projects and achievements. 
 
 ## 🌱 Currently learning: 
 * Advanced techniques in natural language processing (NLP) with a focus on sentiment analysis and text generation.
