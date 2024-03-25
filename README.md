@@ -20,6 +20,9 @@ I'm a passionate software engineer with a keen interest in machine learning and 
 * Python programming.
 * Machine learning and data science.
 
+## 😄 Don't waste your life.
+![life](/Images/life.jpg)
+
 
 
 <!--
