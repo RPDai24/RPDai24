@@ -23,7 +23,7 @@ I'm a passionate software engineer with a keen interest in machine learning and 
 
 ## 😄 Don't waste your life.
 <!-- ![life](/Images/life.jpg) -->
-<img src="/Images/life.jpg" alt="drawing" width="700">
+<img src="/Images/life.jpg" alt="drawing" width="520">
 
 <!--
 **RPDai24/RPDai24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
