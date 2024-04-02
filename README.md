@@ -1,5 +1,6 @@
 # Hello, I'm RPD! 👋
-![image](/Images/head.png)
+<!-- ![image](/Images/head.png) -->
+<img src="/Images/head.png" alt="drawing" width="200"/>
 
 I'm a passionate software engineer with a keen interest in machine learning and data science. Currently, I'm exploring the fascinating world of artificial intelligence and its applications in various domains.
 
@@ -21,9 +22,8 @@ I'm a passionate software engineer with a keen interest in machine learning and 
 * Machine learning and data science.
 
 ## 😄 Don't waste your life.
-![life](/Images/life.jpg)
-
-
+<!-- ![life](/Images/life.jpg) -->
+<img src="/Images/life.jpg" alt="drawing" width="200">
 
 <!--
 **RPDai24/RPDai24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
